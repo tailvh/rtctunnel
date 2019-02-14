@@ -11,7 +11,7 @@ An overview of the application and how and why it was built is available here: [
 RTCTunnel can be installed via `go get`:
 
 ```bash
-go get github.com/rtctunnel/rtctunnel/cmd/rtctunnel
+go get github.com/tailvh/rtctunnel/cmd/rtctunnel
 ```
 
 Or downloaded from the releases page (for linux). Currently the [pions/webrtc](https://github.com/pions/webrtc) library requires libopenssl to compile.
