@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/rtctunnel/rtctunnel/crypt"
+	"github.com/tailvh/rtctunnel/crypt"
 	yaml "gopkg.in/yaml.v2"
 )
 

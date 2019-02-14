@@ -54,4 +54,4 @@ rtctunnel run
 
 Typically it would be run in the background.
 
-A docker-compose example is available in [examples/redis](https://github.com/rtctunnel/rtctunnel/tree/master/examples/redis).
+A docker-compose example is available in [examples/redis](https://github.com/tailvh/rtctunnel/tree/master/examples/redis).

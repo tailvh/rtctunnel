@@ -1,4 +1,4 @@
-module github.com/rtctunnel/rtctunnel
+module github.com/tailvh/rtctunnel
 
 // replace github.com/pions/webrtc v1.1.0 => github.com/calebdoxsey/webrtc v1.1.0
 

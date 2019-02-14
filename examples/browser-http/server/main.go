@@ -7,9 +7,9 @@ import (
 	"strings"
 
 	"github.com/gopherjs/gopherjs/js"
-	"github.com/rtctunnel/rtctunnel/crypt"
-	"github.com/rtctunnel/rtctunnel/ext/js/localstorage"
-	"github.com/rtctunnel/rtctunnel/peer"
+	"github.com/tailvh/rtctunnel/crypt"
+	"github.com/tailvh/rtctunnel/ext/js/localstorage"
+	"github.com/tailvh/rtctunnel/peer"
 )
 
 const (
