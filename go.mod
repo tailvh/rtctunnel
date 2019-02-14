@@ -1,6 +1,6 @@
 module github.com/rtctunnel/rtctunnel
 
-replace github.com/pions/webrtc v1.1.0 => github.com/calebdoxsey/webrtc v0.0.0-20181117103900-4e17d1d3f1c9c9558d57d34b92845a973dc4929d
+replace github.com/pions/webrtc v1.1.0 => github.com/calebdoxsey/webrtc v1.1.0
 
 require (
 	github.com/apex/log v1.1.0
